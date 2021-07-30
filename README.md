@@ -1,2 +1,2 @@
 # OSCP-prep
-Personal notes taken in the preparation for the OSCP exam
+Personal notes taken in preparation for the OSCP exam
